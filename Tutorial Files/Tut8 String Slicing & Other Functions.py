@@ -4,6 +4,7 @@ print(mystr[2:8:2])
 
 #Practice
 """
+
 [::-8]=ges
 [::8]=Hld
 *********************[2::-2]=gio eo is (WRONG), rH
